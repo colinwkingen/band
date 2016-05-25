@@ -1,0 +1,26 @@
+.sidebar {
+  width: 20%;
+  float: left;
+  background-color: lightgrey;
+}
+.tour_title {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.column {
+  width: 35%;
+  float: right;
+  padding: 2.5%;
+
+}
+
+.image {
+  float: left;
+  width: 300px;
+  padding: 10px;
+}
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
