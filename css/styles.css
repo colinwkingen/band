@@ -2,6 +2,8 @@
   width: 20%;
   float: left;
   background-color: lightgrey;
+  border: 2px solid darkgrey;
+
 }
 .tour_title {
   text-decoration: underline;
@@ -9,9 +11,11 @@
 }
 
 .column {
+  background-color: grey;
   width: 35%;
   float: right;
-  padding: 2.5%;
+  padding: 1%;
+  margin: 1.3%;
 
 }
 
